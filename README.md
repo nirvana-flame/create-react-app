@@ -1,4 +1,4 @@
-# Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls) [![Known Vulnerabilities](https://snyk.io/package/npm/snyk/badge.svg)](https://snyk.io/package/npm/snyk)
+# Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls) <a href="https://snyk.io/test/github/nirvana-flame/create-react-app?targetFile=package.json"><img src="https://snyk.io/test/github/nirvana-flame/create-react-app/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/nirvana-flame/create-react-app?targetFile=package.json" style="max-width:100%;"></a>
 
 Create React apps with no build configuration.
 
